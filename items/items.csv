@@ -1,11 +1,16 @@
 用途,商品名,型番,個数,URL
-台車,BotWheel Explorer Kit,SKU: KIT-BWE-01,1,https://shop.odriverobotics.com/products/botwheel-explorer
+モータ,ダイレクトドライブモーター,DDT M0601C_111,4,https://ssci.to/7646
 バッテリ,マキタ リチウムイオンバッテリ,BL1860B,1,https://amzn.asia/d/bOFE7TR
 バッテリ充電器,マキタ 急速充電器,DC18RF,1,https://amzn.asia/d/7jeYRxh
 バッテリアダプタ,マキタ バッテリ用アダプタ,-,1,https://amzn.asia/d/e7m00Mh
 外付け取手,樹脂外付取手,UPCN21-W-36-SEU,1,https://jp.misumi-ec.com/vona2/detail/110302361470/?HissuCode=UPCN21-W-36-SEU
 非常停止ボタン,IDEC 非常停止用押ボタン XWシリーズ φ22,XW1E-BV401MR,1,https://amzn.asia/d/12MV87Z
 非常停止ボタン用銘板,IDEC X6シリーズ 非常停止用押ボタンスイッチ,HWAV-J27-Y,1,https://amzn.asia/d/ifdIQ3f
-低電圧切断モジュール,CZH-LABS 18V/30Amp LVD 低電圧切断モジュール,MD-D1021V3 18V,1,https://amzn.asia/d/gNzmijV
-ワイヤースプール,GEARit 16AWGゲージ,GI-MARINE-16AWG-CL3-WH-20C2,1,https://amzn.asia/d/9fGRKGI
 端子台,WAGO 221 レバーナット,P221-35,1,https://amzn.asia/d/5yNv0Fz
+マイコン,ATOM Matrix,M5STACK-C008-B,1,https://ssci.to/6260
+ユニット,M5Stack用RS485ユニット,M5STACK-U034,1,https://ssci.to/6554
+ブラケット,DDT-M0601C_111用ブラケット,DDT-M0601C-BRACKET,4,https://ssci.to/9204
+ソリッドタイヤ,6インチソリッドタイヤ,---,2,https://www.aliexpress.com/item/1005010659360752.html?spm=a2g0o.productlist.main.1.1622zWoczWochp&algo_pvid=12740fda-bd91-4377-b2d2-e1e91f058998&algo_exp_id=12740fda-bd91-4377-b2d2-e1e91f058998-0&pdp_ext_f=%7B%22order%22%3A%227%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21JPY%213216%21754%21%21%21140.42%2132.91%21%40212e532617715011044768147e498f%2112000053105265346%21sea%21JP%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A62d59ed9%3Bm03_new_user%3A-29895%3BpisId%3A5000000197858414&curPageLogUid=LmV3GHIeomgU&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010659360752%7C_p_origin_prod%3A&gatewayAdapt=jpn2glo
+メカナムホイール,152mmアルミメカナムホイール(ベーシック 左),14165L,1,https://www.vstone.co.jp/robotshop/index.php?main_page=product_info&cPath=873&products_id=4442
+メカナムホイール,152mmアルミメカナムホイール(ベーシック 右),14165R,1,https://www.vstone.co.jp/robotshop/index.php?main_page=product_info&products_id=4452
+低電圧切断モジュール,CZH-LABS 18V/30Amp LVD 低電圧切断モジュール,MD-D1021V3 18V,1,https://amzn.asia/d/gNzmijV
